@@ -17,5 +17,6 @@ def encryption(string, key):
             result += alphabet[new_key]
     return result
 
-
-print(encryption('amir', 4))
+string = input('insert text for encryption : ')
+key = int(input('insert encryption key : '))
+print(encryption(string,key))
