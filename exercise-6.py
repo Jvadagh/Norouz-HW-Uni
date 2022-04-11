@@ -7,4 +7,3 @@ print("sum: ", sum(values))
 print("average: ", sum(values)/len(values))
 print("min: ", min(values))
 print("max: ", max(values))
-"""hello jakiiiii"""
